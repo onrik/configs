@@ -17,4 +17,5 @@ let javascript_higlight_all = 1
 set t_Co=256
 
 syntax on
+colorscheme elflord
 set backspace=indent,eol,start whichwrap+=<,>,[,]
