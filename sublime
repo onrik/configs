@@ -1,0 +1,23 @@
+{
+	"auto_complete": true,
+	"auto_complete_commit_on_tab": false,
+	"close_windows_when_empty": true,
+	"color_scheme": "Packages/User/WarmNeon.tmTheme",
+	"drag_text": false,
+	"el_capitan_sidebar_blue_folders": true,
+	"enable_tab_scrolling": false,
+	"font_face": "Menlo",
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"open_files_in_new_window": false,
+	"overlay_scroll_bars": "enabled",
+	"scroll_past_end": true,
+	"shift_tab_unindent": true,
+	"show_encoding": true,
+	"tab_size": 4,
+	"theme": "El Capitan.sublime-theme",
+	"translate_tabs_to_spaces": true
+}
