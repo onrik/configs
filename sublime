@@ -6,6 +6,8 @@
 	"drag_text": false,
 	"el_capitan_sidebar_blue_folders": true,
 	"enable_tab_scrolling": false,
+	"fmt_tab_indent": false,
+	"fmt_tab_width": 4,
 	"font_face": "Menlo",
 	"font_size": 12,
 	"ignored_packages":
