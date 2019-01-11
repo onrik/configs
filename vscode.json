@@ -1,0 +1,38 @@
+{
+    "editor.fontSize": 13,
+    "editor.renderIndentGuides": true,
+    "editor.minimap.enabled": true,
+    "editor.fontFamily": "Hack, Menlo, Monaco, 'Courier New', monospace",
+    
+    "window.zoomLevel": 0,
+    "vsicons.dontShowNewVersionMessage": true,
+    
+    "workbench.activityBar.visible": true,
+    "workbench.colorTheme": "WarmNeon",
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.settings.editor": "json",
+    "workbench.sideBar.location": "left",
+    "workbench.tips.enabled": false,
+    "workbench.tree.horizontalScrolling": true,
+    "workbench.colorCustomizations": {
+        "statusBar.background" : "#373737",
+        "statusBar.noFolderBackground" : "#717171",
+        "statusBar.debuggingBackground": "#263238"
+    },
+    "extensions.ignoreRecommendations": false,
+
+    "python.pythonPath": "python3",
+    "python.linting.pydocstyleEnabled": false,
+    
+    "go.gocodeAutoBuild": true,
+    "go.useLanguageServer": false,
+    "go.buildOnSave": "package",
+    "go.lintOnSave": "package",
+    "go.formatTool": "gofmt",
+    "go.useCodeSnippetsOnFunctionSuggest": true,
+    
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false,
+    
+    "breadcrumbs.enabled": true
+}
