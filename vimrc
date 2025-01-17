@@ -11,6 +11,7 @@ set expandtab
 set softtabstop=4
 set autoindent
 set mouse=a
+set encoding=utf-8
 
 let python_highlight_all = 1
 let javascript_higlight_all = 1
